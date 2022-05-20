@@ -1,0 +1,10 @@
+Z:\Гладков ИС-20-1\олимп\2\bin\Debug\2.exe.config
+Z:\Гладков ИС-20-1\олимп\2\bin\Debug\2.exe
+Z:\Гладков ИС-20-1\олимп\2\bin\Debug\2.pdb
+Z:\Гладков ИС-20-1\олимп\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+Z:\Гладков ИС-20-1\олимп\2\obj\Debug\_2.Form1.resources
+Z:\Гладков ИС-20-1\олимп\2\obj\Debug\_2.Properties.Resources.resources
+Z:\Гладков ИС-20-1\олимп\2\obj\Debug\2.csproj.GenerateResource.Cache
+Z:\Гладков ИС-20-1\олимп\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+Z:\Гладков ИС-20-1\олимп\2\obj\Debug\2.exe
+Z:\Гладков ИС-20-1\олимп\2\obj\Debug\2.pdb
